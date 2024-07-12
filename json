@@ -1,0 +1,10 @@
+{
+    "destination": "Florianópolis",
+    "start_at": "2024-07-20 18:00:00",
+    "end_at": "2024-07-21 18:00:00",
+    "owner_name": "Matheus Livio",
+    "owner_email": "matheuslivio2328@gmail.com",
+		"emails_to_invite": [
+			"livio@dobesone.com.br"
+		]
+}
